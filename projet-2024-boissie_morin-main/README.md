@@ -10,6 +10,7 @@ Ce projet est une application web React parcourant plusieurs possibilités de l'
   * `\profile` - Condense quelques statistiques personnelles de l'utilisateur en renvoyant les informations personnelles, les titres préférés, les artistes et les artistes suivis
  
 ## URL 
+https://spotifried.netlify.app
 
 ## Procédure d'installation 
 
