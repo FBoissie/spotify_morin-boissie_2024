@@ -1,5 +1,5 @@
 export const clientId = "d5b159299d2a481e8d97b0ddaff2bd38";
-const redirectUrl = "http://localhost:3000"; // your redirect URL - must be localhost URL and/or HTTPS
+const redirectUrl = "https://spotifried.netlify.app"; // your redirect URL - must be localhost URL and/or HTTPS
 
 const authorizationEndpoint = "https://accounts.spotify.com/authorize";
 const tokenEndpoint = "https://accounts.spotify.com/api/token";
